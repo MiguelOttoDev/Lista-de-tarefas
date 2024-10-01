@@ -1,0 +1,19 @@
+.tasks {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 10px; 
+}
+.tasks button{
+    margin-right: 10px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+    font-size: 18px
+}
+
+.tasks p{
+    font-size: 18px;
+}

@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+
+}
+
+.header button{
+    border: none;
+    cursor: pointer;
+    background-color: #ffff;
+    font-size: 22px;
+}
+
+
+.header p{
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.header span{
+    font-size: 22px;
+
+}
+
